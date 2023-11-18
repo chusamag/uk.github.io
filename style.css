@@ -1,0 +1,333 @@
+ * {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+ }
+
+ ol {
+     list-style: none;
+ }
+
+ .ab {
+     display: flex;
+     justify-content: space-between;
+     background-color: white;
+     padding: 8px;
+ }
+
+ .a {
+     margin-left: 170px;
+ }
+
+ .a p {
+     font-size: 22px;
+
+     font-weight: 600;
+ }
+
+ .b {
+     margin-right: 64px;
+ }
+
+
+ .b ol li {
+     display: inline;
+     margin: 10px;
+     font-size: 22px;
+     margin-right: 6px;
+ }
+
+ .t {
+
+     height: 100vh;
+     background-color: aquamarine;
+     background-image: url(./Hero.png);
+     background-size: cover;
+
+ }
+
+ .tb {
+
+     padding-top: 14%;
+     padding-left: 20%;
+
+ }
+
+ .tb p {
+     font-size: 22px;
+ }
+
+ .tb h1 {
+     font-size: 32px;
+     font-weight: 700;
+ }
+
+ .tb input {
+     margin-top: 12px;
+     width: 116px;
+     padding: 10px;
+     background-color: aqua;
+     border-radius: 14px;
+     border: none;
+     font-size: 22px;
+
+ }
+
+ .forth {
+     background-color: dimgray;
+     padding: 18px;
+
+ }
+
+ .fo {
+    display: flex;
+    justify-content: center;
+     text-align: center;
+     color: white;
+     font-size: 23px;
+ }
+
+ .fi {
+     text-align: center;
+     margin-top: 14px;
+     font-weight: bolder;
+     font-size: 45px;
+     font-style: bold;
+ }
+
+
+ .fv {
+
+     margin-top: 26px;
+     display: inline-block;
+     text-align: center;
+     margin-left: 400px;
+
+ }
+
+ .fiv {
+
+     display: inline-block;
+     margin: 10px;
+     width: 350px;
+     border: 1px solid gray;
+     height: 456px;
+     border-radius: 9px;
+
+ }
+
+ .fiv i {
+     margin-top: 19px;
+     font-size: 32px;
+     background-color: rgb(182, 182, 182);
+     padding: 25px;
+     border-radius: 66px;
+
+ }
+
+ .fiv h1 {
+     margin-top: 8px;
+ }
+
+ .fiv p {
+     margin-top: 45px;
+ }
+
+ .fiv input {
+     margin-top: 64px;
+     background-color: rgb(31, 255, 106);
+     width: 180px;
+     padding: 13px;
+     font-size: 24px;
+     border-radius: 23px;
+ }
+
+ .si {
+
+     margin-top: 16px;
+     display: inline-block;
+     text-align: center;
+     margin-left: 400px;
+
+ }
+
+ .ix {
+
+     display: inline-block;
+     margin: 10px;
+     width: 350px;
+     border: 1px solid rgb(187, 187, 187);
+     height: 456px;
+     border-radius: 9px;
+
+ }
+
+ .ix i {
+     margin-top: 19px;
+     font-size: 32px;
+     background-color: rgb(205, 201, 201);
+     padding: 25px;
+     border-radius: 66px;
+
+ }
+
+ .ix h1 {
+     margin-top: 8px;
+ }
+
+ .ix p {
+     margin-top: 45px;
+ }
+
+ .ix input {
+     margin-top: 64px;
+     background-color: rgb(31, 255, 106);
+     width: 180px;
+     padding: 13px;
+     font-size: 24px;
+     border-radius: 23px;
+ }
+
+
+ .WE {
+     background-color: rgb(237, 237, 237);
+     padding: 22px;
+ }
+
+ .help {
+     text-align: center;
+     padding-top: 23px;
+ }
+
+ .solarsystem {
+     display: flex;
+     justify-content: space-around;
+     padding-top: 54px;
+ }
+
+ .solar {
+     background-color: darkblue;
+     width: 29%;
+     height: 350px;
+     color: white;
+ }
+
+ .amet {
+     width: 322px;
+     height: 34px;
+     padding: 22px;
+ }
+
+ .amet p {
+     padding-top: 44px;
+ }
+
+ .amet h2 {
+     text-align: end;
+     padding-top: 59px;
+     padding-left: 330px;
+     font-size: 32px;
+ }
+
+ .amet i {
+     margin-top: 23px;
+ }
+
+ .panel {
+     background-color: lightblue;
+     width: 29%;
+     height: 350px;
+ }
+
+ .ci {
+     padding-top: 33px;
+     text-align: center;
+     font-size: 55px;
+     font-weight: bolder;
+ }
+
+ .perche {
+     display: flex;
+     justify-content: space-around;
+     padding-top: 53px;
+ }
+
+ .town {
+     border: solid 2px grey;
+     border-radius: 13px;
+ }
+
+ .town img {
+     width: 200px;
+     padding: 23px;
+ }
+
+ .now {
+     padding: 10px;
+ }
+
+ .now p {
+     padding-top: 12px;
+     padding-bottom: 23px;
+
+ }
+
+ .now h4 {
+     line-height: 34px;
+ }
+
+ .domand {
+     background-color: rgb(215, 215, 215);
+     padding: 33px;
+     margin-top: 32px;
+ }
+
+ .fre {
+     text-align: center;
+     padding-top: 33px;
+     font-size: 54px;
+     font-weight: bolder;
+     padding-bottom: 44px;
+ }
+
+ .lorem {
+     display: flex;
+     justify-content: space-around;
+
+ }
+
+ .sit {
+     margin-top: 13px;
+     border: 1px solid gray;
+     width: 40%;
+     display: flex;
+     justify-content: space-between;
+     padding: 19px;
+     color: blue;
+ }
+
+ footer {
+     background-color: rgb(66, 66, 225);
+ }
+
+ .logo {
+     display: flex;
+     justify-content: space-around;
+     padding-top: 13px;
+     color: white;
+ }
+
+ .company {
+     margin-top: 34px;
+     margin-right: 146px;
+ }
+
+ .company ol li {
+     margin-top: 23px;
+     line-height: 33px;
+ }
+
+ .ip {
+     margin-top: 34px;
+     padding-bottom: 22px;
+ }
